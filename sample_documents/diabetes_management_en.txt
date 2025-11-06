@@ -1,0 +1,63 @@
+Type 2 Diabetes Management Guidelines
+
+Overview:
+Type 2 diabetes mellitus is a chronic metabolic disorder characterized by insulin resistance and relative insulin deficiency. Proper management requires a comprehensive approach combining lifestyle modifications, regular monitoring, and pharmacological interventions when necessary.
+
+Lifestyle Modifications:
+
+1. Dietary Management
+   - Emphasize consumption of whole grains, fruits, and vegetables
+   - Limit refined carbohydrates and added sugars
+   - Control portion sizes to maintain healthy body weight
+   - Consider medical nutrition therapy with a registered dietitian
+   - Aim for consistent carbohydrate intake across meals
+
+2. Physical Activity
+   - Recommend at least 150 minutes of moderate-intensity aerobic activity per week
+   - Include resistance training 2-3 times per week
+   - Encourage reduction of sedentary behavior
+   - Monitor blood glucose before and after exercise
+
+3. Weight Management
+   - Target 5-10% weight loss for overweight or obese patients
+   - Regular weight monitoring and tracking
+   - Behavioral interventions and support groups
+
+Monitoring:
+
+1. Blood Glucose Monitoring
+   - Self-monitoring of blood glucose (SMBG) as appropriate
+   - Continuous glucose monitoring (CGM) for eligible patients
+   - HbA1c testing every 3 months for patients not at goal
+   - Target HbA1c: generally <7%, individualized based on patient factors
+
+2. Complication Screening
+   - Annual comprehensive eye examination
+   - Annual foot examination
+   - Regular screening for nephropathy (urine albumin-to-creatinine ratio)
+   - Cardiovascular risk assessment
+
+Pharmacological Treatment:
+
+1. First-Line Therapy
+   - Metformin is the preferred initial pharmacologic agent
+   - Start at low dose and titrate gradually to minimize GI side effects
+   - Continue unless contraindicated or not tolerated
+
+2. Additional Agents
+   - Consider adding agents based on individual patient characteristics
+   - Options include sulfonylureas, DPP-4 inhibitors, GLP-1 receptor agonists, SGLT-2 inhibitors
+   - For patients with established cardiovascular disease, prioritize agents with proven cardiovascular benefit
+   - Insulin therapy when needed to achieve glycemic targets
+
+Patient Education:
+- Provide comprehensive diabetes self-management education
+- Teach recognition and treatment of hypoglycemia
+- Educate about sick day management
+- Discuss long-term complications and prevention strategies
+
+Follow-up:
+- Quarterly visits for patients not at glycemic goal
+- Biannual visits for stable patients at goal
+- Assess medication adherence, lifestyle modifications, and barriers to care
+- Adjust treatment plan as needed based on HbA1c and other clinical parameters
